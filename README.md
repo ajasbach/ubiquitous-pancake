@@ -1,2 +1,3 @@
 # ubiquitous-pancake
 My first repository
+I am a Nihilist trying to learn how to code...
